@@ -7,4 +7,3 @@ pnpm-lock.yaml
 yarn.lock
 # bun lockfile
 bun.lockb
-dist
